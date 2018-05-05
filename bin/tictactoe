@@ -14,9 +14,9 @@ puts "Welcome to Tic Tac Toe!"
 
 puts "What kind of game would you like to place?"
 
-puts "For Person VS. Person type pvp"
-puts "For Person VS. Computer type pvc"
-puts "For Computer VS. Computer type cvc"
+puts "For Person VS. Person, type pvp"
+puts "For Person VS. Computer, type pvc"
+puts "For Computer VS. Computer, type cvc"
 
 input = gets.strip
 
